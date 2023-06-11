@@ -40,7 +40,7 @@ export const Header = () => {
     <div className="header-box">
       <div className="leftside">
         <div className="img">
-          <img src="../Images/todo-list.png" alt="todologo" />
+          <img src="Images/todo-list.png" alt="todologo" />
         </div>
         <div className="content">
           <div className="heading-big">Lots of work to do?</div>
